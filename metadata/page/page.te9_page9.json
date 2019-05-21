@@ -7,36 +7,28 @@
       "_type": "radios",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.te9_page9--radios.auto_name__29--radio.auto_value__22",
           "_type": "radio",
-          "conditionalComponent": {
-            "_id": "page.te9_page9--radios.auto_name__29--radio.auto_value__22--email.auto_name__30",
-            "_type": "email",
-            "label": "email address",
-            "name": "auto_name__30"
-          },
           "label": "Email",
           "value": "auto_value__22"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.te9_page9--radios.auto_name__29--radio.auto_value__23",
           "_type": "radio",
-          "conditionalComponent": {
-            "_id": "page.te9_page9--radios.auto_name__29--radio.auto_value__23--number.auto_name__31",
-            "_type": "number",
-            "label": "Phone number",
-            "name": "auto_name__31"
-          },
-          "hint": "Please provide a number where we can reach you during the week between 9am and 4pm",
           "label": "Phone",
           "value": "auto_value__23"
         }
       ],
-      "legend": "Please indicate your preferred method of contact",
+      "legend": "Choose one option",
       "name": "auto_name__29"
     }
   ],
-  "heading": "Contacting you",
-  "lede": "If we need to contact you about your case how would you prefer us to do so?",
+  "heading": "How would you prefer to be contacted about your case?",
   "url": "te9_page9"
 }

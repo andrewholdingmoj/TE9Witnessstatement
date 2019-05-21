@@ -12,7 +12,7 @@
           "conditionalComponent": {
             "_id": "page.te9_page4--radios.auto_name__12--radio.auto_value__1--text.auto_name__13",
             "_type": "text",
-            "label": "What is the name of the company that owns the vehicle?",
+            "label": "Company name",
             "name": "auto_name__13"
           },
           "label": "Yes",
@@ -25,10 +25,9 @@
           "value": "auto_value__2"
         }
       ],
-      "legend": "Is the vehicle owned and registered by a company?",
       "name": "auto_name__12"
     }
   ],
-  "heading": "Company vehicle",
+  "heading": "Is the vehicle owned and registered by a company?",
   "url": "te9_page4"
 }
